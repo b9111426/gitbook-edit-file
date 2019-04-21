@@ -1,6 +1,10 @@
 # Summary
 
-* [說明](README.md)
+* [網頁設計](README.md)
+ - [編輯器](Code editor.md)
+* [Html](HTML.md)
+* [Css](CSS.md)
+* [Javascript](JAVA.md)
 * [Gitbook](GITBOOK.md)
  - [安裝gitbook](Setup gitbook.md)
  - [Markdown語法](Markdown.md)
@@ -8,6 +12,4 @@
 * [Git](GIT.md)
  - [安裝git](Setup git.md)
  - [Github](Github.md)
-* [Html](HTML.md)
-* [Css](CSS.md)
-* [Javascript](JAVA.md)
+ - [Git語法](Git Language.md)

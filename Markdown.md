@@ -25,12 +25,12 @@
 ###文字方面
 #####<html語法>
 
-<font color="red">文字顏色</font>
+1. <font color="red">文字顏色</font>
 ```
 <font color="red">文字顏色</font>
 ```
 
-<table><tr><td bgcolor=#FF00FF>背景色的字</td></tr></table>
+2. <table><tr><td bgcolor=#FF00FF>背景色的字</td></tr></table>
 ```
 <table><tr><td bgcolor=#FF00FF>背景色的字</td></tr><table>
 ```
