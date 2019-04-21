@@ -10,8 +10,11 @@
 
 3.連結
 ```
-<網址>
-例如:<http://example.com/>
+1.<網址>
+範例:<http://example.com/>
+
+2.[描述文字](網址)
+範例:[NPM](https://www.npmjs.com/)
 ```
 
 <font color="red">文字顏色</font>
