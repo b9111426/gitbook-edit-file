@@ -1,7 +1,7 @@
 # Github
 
 ###上傳步驟
-<img src="./images/Github_001.jpg" alt="" height="300"  ><br>
+<img src="./images/Github_001.jpg" alt=""><br>
 1. **增加全部檔案進入索引**
 ```
 git add .

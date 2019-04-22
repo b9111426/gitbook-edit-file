@@ -30,10 +30,32 @@
 <font color="red">文字顏色</font>
 ```
 
-2. <table><tr><td bgcolor=#FF00FF>背景色的字</td></tr></table>
+2. <table><tr><td bgcolor=85ef47>背景色的字</td></tr></table>
 ```
 <table><tr><td bgcolor=#FF00FF>背景色的字</td></tr><table>
 ```
+3. **粗體字**
+```
+**bold**
+```
+4. 標題字
+```
+# 文子
+```
+5. 
+
+---------------------------------------
+###列表
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  ```
 
 ---------------------------------------
 ###表格
@@ -52,3 +74,15 @@
 | zebra stripes | are neat | $1 |
 
 ---------------------------------------
+###階層式區塊
+> Quote one sentences
+>>Quote two sentences
+>>Quote two sentences
+>>>Quote three sentences
+
+```
+> Quote one sentences
+>>Quote two sentences
+>>Quote two sentences
+>>>Quote three sentences
+```
